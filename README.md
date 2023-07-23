@@ -25,6 +25,8 @@ Keywords: Swarm intelligence, Filter Methods, Microarray data, Feature Selection
 
 Jeremiah Isuwa1,a, Mohammed Abdullahi2,b, Yusuf Sahabi Ali2,c, Ibrahim Hayatu Hassan3,d,
 Jesse Romeo Buba4,e, Ibrahim Aliyu5,f, Jinsul Kim5,g,*
+
+
 1Department of Computer Science, Federal University of Kashere, Gombe, Nigeria
 2Department of Computer Science, Ahmadu Bello University, Zaria, Nigeria
 3Institute of Agricultural Research, Ahmadu Bello University, Zaria, Nigeria
